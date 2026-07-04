@@ -1,7 +1,19 @@
 # Decision Record
 
-Decision:
-Why:
-Alternatives:
-Tradeoffs:
-Review Trigger:
+Status:
+
+Date:
+
+## Decision
+
+## Context
+
+## Rationale
+
+## Alternatives Considered
+
+## Consequences
+
+## Revisit Conditions
+
+## Product Council Review
